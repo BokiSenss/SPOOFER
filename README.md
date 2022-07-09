@@ -1,4 +1,3 @@
 # SPOOFER
-POMOC
 
-Ukoliko vam spoofer ne radi znaci da je nova verzija, ali nove verzije za sad nece biti tako da ovaj SPOOFER vrijedi do 11. mjeseca!
+If your spoofer does not work, it means that it is a new version, but there will be no new versions for now, so this SPOOFER is valid until the 11th month
